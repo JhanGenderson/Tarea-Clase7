@@ -1,0 +1,10 @@
+.message{
+    display: none;
+}
+
+.poke-card{
+    padding: 10px;
+    border-radius: 15px;
+    border: 1px solid #c8c8c8;
+    margin: 10px;
+}
